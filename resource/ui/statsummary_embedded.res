@@ -2081,13 +2081,13 @@
 			"enabled"		"0"	
 		}
 	}
-	"TipImage"
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"TipImage"
-		"xpos"			"9999"
-		"ypos"			"9999"	
-	}
+	//"TipImage" // replaced EyelanderIcon
+	//{
+	//	"ControlName"	"CTFImagePanel"
+	//	"fieldName"		"TipImage"
+	//	"xpos"			"9999"
+	//	"ypos"			"9999"
+	//}
 	"TipText"
 	{
 		"ControlName"		"Label"
@@ -2113,10 +2113,10 @@
 		"enabled"		"1"
 		"wrap"			"1"
 	}
-	"EyelanderIcon"
+	"TipImage"
 	{
 		"ControlName"	"CTFImagePanel"
-		"fieldName"		"EyelanderIcon"
+		"fieldName"		"TipImage"
 		"xpos"			"c-234"
 		"ypos"			"379"
 		"zpos"			"13"

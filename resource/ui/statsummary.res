@@ -314,20 +314,20 @@
 		"fgcolor_override"	"Orange"
 	}					
 
-	"TipImage"
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"TipImage"
-		"xpos"			"-36" //tiptext is embedded here. hide it off-screen
-		"ypos"			"r35"
-		"zpos"			"20012"
-		"wide"			"35"
-		"tall"			"35"
-		"visible"		"0"
-		"enabled"		"1"
-		"image"			""	
-		"scaleImage"	"1"	
-	}
+	//"TipImage" // replaced EyelanderIcon
+	//{
+	//	"ControlName"	"CTFImagePanel"
+	//	"fieldName"		"TipImage"
+	//	"xpos"			"-36" //tiptext is embedded here. hide it off-screen
+	//	"ypos"			"r35"
+	//	"zpos"			"20012"
+	//	"wide"			"35"
+	//	"tall"			"35"
+	//	"visible"		"0"
+	//	"enabled"		"1"
+	//	"image"			""
+	//	"scaleImage"	"1"
+	//}
 	
 	"TipText" //embedded to tipimage
 	{
@@ -348,10 +348,10 @@
 		"enabled"		"1"
 		"wrap"			"1"
 	}
-	"EyelanderIcon"
+	"TipImage"
 	{
 		"ControlName"	"CTFImagePanel"
-		"fieldName"		"EyelanderIcon"
+		"fieldName"		"TipImage"
 		"xpos"			"15"
 		"ypos"			"434"
 		"zpos"			"20013"
@@ -359,7 +359,7 @@
 		"tall"			"14"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/leaderboard_class_demoknight"
+		"image"			""
 		"scaleImage"	"1"				
 	}
 	"TipOfTheDayLabel" [$WIN32] 
