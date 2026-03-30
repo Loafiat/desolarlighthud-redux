@@ -1,3 +1,5 @@
+No offense to SolarLight, these are the best aesthetics I've ever seen in a HUD. It's just that not everyone has the knowledge required to remove these, and it's a little jarring seeing SolarLight references in my TF2 HUD.
+
 # SolarLightHUD REDUX
 <img width="2560" height="1280" alt="thumbnail" src="https://github.com/user-attachments/assets/fee65220-2855-477d-b247-6e95168fb799" />
 
